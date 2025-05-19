@@ -3,7 +3,7 @@
 
 ### Overview
 
-
+Comparison of different machine learning models in cats and dogs classification.
 
 ### Requirements
 
